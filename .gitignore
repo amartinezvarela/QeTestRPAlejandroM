@@ -1,0 +1,11 @@
+# Default ignored files
+
+/.idea
+/target
+/.gradle/
+/out/
+/build/
+/bin/
+/.scannerwork/
+/.sonar/
+/.settings/
